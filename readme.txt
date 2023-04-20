@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 Github was established.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
@@ -12,3 +13,6 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick & simple.
 >>>>>>> dev
 
+=======
+Fuck you!
+>>>>>>> dev
